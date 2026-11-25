@@ -24,7 +24,7 @@ sentence that reads in a single breath, and the last words
 reader can actually keep.
 
 LIMIT is 200 because the bounty gate allows one sentence
-of 1 to 200 characters. The sealed line is 118 characters,
+of 1 to 200 characters. The sealed line is 117 characters,
 so it sits well inside the cap; the validator below only
 guards against an edit that would push it past the limit.
 """

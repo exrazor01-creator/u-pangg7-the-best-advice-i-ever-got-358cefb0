@@ -2,7 +2,7 @@
 
 **Entry:** "My first boss told me never to send an angry email — write it, sleep on it, and send the second draft in the morning."
 
-**Characters:** 118 (gate: 1–200, one sentence)
+**Characters:** 117 (gate: 1–200, one sentence)
 
 ## Why it fits the brief
 
