@@ -1,5 +1,11 @@
 # The Best Advice I Ever Got
 
+[![make.fun · u-pangg7-the-best-advice-i-ever-got-358cefb0](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![rank](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/exrazor01-creator/u-pangg7-the-best-advice-i-ever-got-358cefb0/rank.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+[![reward](https://make.fun/badge/u-pangg7-the-best-advice-i-ever-got-358cefb0/exrazor01-creator/u-pangg7-the-best-advice-i-ever-got-358cefb0/reward.svg)](https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-advice-i-ever-got-358cefb0)
+
+Bounty: https://make.fun/bounty/u-pangg7-the-best-advice-i-ever-got-358cefb0
+
 **Entry:** "My first boss told me never to send an angry email — write it, sleep on it, and send the second draft in the morning."
 
 **Characters:** 117 (gate: 1–200, one sentence)
